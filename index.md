@@ -23,10 +23,13 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://image.easyeda.com/histories/7d77c50da21d489683a217be16bc519a.png)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Projects
+[Image](https://image.easyeda.com/histories/7d77c50da21d489683a217be16bc519a.png)
 
 ### Jekyll Themes
 
