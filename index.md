@@ -12,7 +12,7 @@ I was born and raised in Lithuania, but after Secondary school moved to Study el
 At the moment I am actively working on 4 projects... Arduino based nano quadcopter, NFC ring, emotion measuring ring and a nice mug warmer to keep me sane while I am working on the projects!
 
 Images from my latest circuit schematic design of Arduino based quadcopter for both BLE-Nano and nRF52840 chip based modules.
-![alt-text](https://image.easyeda.com/histories/7d77c50da21d489683a217be16bc519a.png "BLE-Nano Quadcopter")
+![alt-text](https://image.easyeda.com/histories/8d4ac1990a8a405da8cd65bd083d4956.png "BLE-Nano Quadcopter")
 ![alt text](https://image.easyeda.com/histories/2f007326ea2741b99635a9ce8dd6b959.png "nRF52840 Quadcopter")
 
 
