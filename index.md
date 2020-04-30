@@ -1,41 +1,21 @@
-## Welcome to Monty's Hacks
+## Hacks and Projects by Monty
 
-You can use the [editor on GitHub](https://github.com/Montvydas/Montvydas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hey everyone, my name is Monty and in this website I will be posting cool electronics projects and various. other hacks, thus stay tuned in!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some Backstory
 
-### Markdown
+I was born and raised in Lithuania, but after Secondary school moved to Study electronics in Edinburgh. Throughout my journey I worked for various companies such as Cirrus Logic, ARM, etc. Right now I am trying to open a new page in life and thus moved to sunny Valencia, where I will be re-learning a lot of things in order to make cool electronics projects. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Projects
 
-![alt text](https://image.easyeda.com/histories/7d77c50da21d489683a217be16bc519a.png "Nano Quadcopter")
+At the moment I am actively working on 4 projects... Arduino based nano quadcopter, NFC ring, emotion measuring ring and a nice mug warmer to keep me sane while I am working on the projects!
 
-### Jekyll Themes
+Images from my latest circuit schematic design of Arduino based quadcopter for both BLE-Nano and nRF52840 chip based modules.
+![alt-text](https://image.easyeda.com/histories/7d77c50da21d489683a217be16bc519a.png "BLE-Nano Quadcopter")
+![alt text](https://image.easyeda.com/histories/2f007326ea2741b99635a9ce8dd6b959.png "nRF52840 Quadcopter")
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Montvydas/Montvydas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you wish to contact me I am available at [gmail](montvydas.klumbys@gmail.com) or github.
